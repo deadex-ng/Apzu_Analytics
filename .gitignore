@@ -2,6 +2,7 @@ __pycache__/
 home/__pycache__/
 analytics/__pycache__/
 home/migrations/__pycache__/
+.idea
 
 
 # Environments
