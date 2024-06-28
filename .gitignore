@@ -1,0 +1,14 @@
+__pycache__/
+home/__pycache__/
+analytics/__pycache__/
+home/migrations/__pycache__/
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
